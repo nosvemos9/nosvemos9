@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melih 
 - 💻 I'm a developer passionate about Java, Python, and web technologies.
-- 🌱  I'm also expanding my skills in backend with Python
+- 🌱  I'm also expanding my skills in backend 
 - 🚀 I'm currently working on elevator system simulations and algorithm-based projects in Java.
 - 📫 How to reach me [melihcagliyan5@gmail.com]
